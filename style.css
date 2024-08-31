@@ -1,0 +1,14 @@
+#cabecalho{
+    background-color: lightgray;
+    text-align: center;
+}
+#corpo{
+    text-align: justify;
+}
+#maissobre{
+    background-color: grey;
+    text-align: center;
+}
+.imglink{
+    width: 30px;
+}
