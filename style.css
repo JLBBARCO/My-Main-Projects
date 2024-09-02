@@ -1,14 +1,37 @@
-#cabecalho{
-    background-color: lightgray;
+.navbar {
+  background-color: #333;
+  display: flex;
+  justify-content: space-around;
+}
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  padding: 20px;
+  transition: background-color 0.3s ease;
+}
+.nav-link:hover {
+  background-color: #555;
+}
+#cabecalho {
+  background-color: lightgray;
+  text-align: center;
+}
+#corpo {
+  text-align: justify;
+}
+#maissobre {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+.imglink {
+  width: 30px;
+  padding: 5%;
+}
+#botao{
     text-align: center;
 }
-#corpo{
-    text-align: justify;
-}
-#maissobre{
-    background-color: grey;
-    text-align: center;
-}
-.imglink{
-    width: 30px;
+button{
+    background-color: #fff;
+    border-radius: ;
 }
